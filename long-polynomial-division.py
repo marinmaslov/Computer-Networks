@@ -2,6 +2,7 @@
     Code in Python (v.3.7.0) for long polynomial division
     Task 1, first homework by Julije Ožegović
     Computer Networks course @ FESB
+    2018
 '''
 
 try:
