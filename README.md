@@ -1,5 +1,5 @@
 # Computer Network Algorithms 🌐
-Python implmentation of a few important algorithms used in computer newtorks for the Computer Networks Course @ FESB
+Python implmentation of a few important algorithms used in computer newtorks for the Computer Networks Course @ FESB, University of Split
 
 ## Table of Content
 [1. Long Polynomial Division](algorithms/long-polynomial-division.py)<br>
